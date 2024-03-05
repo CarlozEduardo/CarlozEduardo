@@ -2,7 +2,7 @@
 Oi, eu sou o Carlos Eduardo!
  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"></h1>
 
-<h4>😄 Atualmente estou cursando ADS na SPTech 2/4 | Estagiário na Stefanini Group</h4>
+<h4 align="center">😄 Atualmente estou cursando ADS na SPTech 2/4 | Estagiário na Stefanini Group</h4>
 
 <h4 align="center"> Redes Sociais </h4>
 
@@ -14,7 +14,9 @@ Oi, eu sou o Carlos Eduardo!
 <h4 align="center"> Sobre mim </h4>
 
 <div align="center">
+
 ![Carlos GitHub stats](https://github-readme-stats.vercel.app/api?username=CarlozEduardo&show_icons=true&theme=dark)
+
 </div>
 
 <div align="center" style="display: inline_block"><br>
