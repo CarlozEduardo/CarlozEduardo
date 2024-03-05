@@ -11,11 +11,19 @@ Oi, eu sou o Carlos Eduardo!
 <a href="https://instagram.com/krs.jar" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 </div>
 
+##
+
 <h4 align="center"> Sobre mim </h4>
 
 <div align="center">
 
 ![Carlos GitHub stats](https://github-readme-stats.vercel.app/api?username=CarlozEduardo&show_icons=true&theme=dark)
+
+</div>
+
+<div align="center">
+       
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=CarlozEduardo&theme=dark&locale=pt_BR)](https://git.io/streak-stats)
 
 </div>
 
