@@ -2,7 +2,7 @@
 Oi, eu sou o Carlos Eduardo!
  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"></h1>
 
-<h4 align="center">😄 Atualmente estou cursando ADS na SPTech 3/4 | Estagiário na Stefanini Group</h4>
+<h4 align="center">😄 Atualmente estou cursando ADS na SPTech 4/4 | Estagiário na Stefanini Group</h4>
 
 <h4 align="center"> Redes Sociais </h4>
 
